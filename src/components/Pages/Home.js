@@ -69,7 +69,7 @@ class Home extends Component {
 
                 <div className="features-wrap">
                   <i className="fa fa-download"></i>
-                  <h2>Freash and clean</h2>
+                  <h2>Freash and clean.</h2>
                   <p>Lorem ipsum sit amet,
                   lorem ipsum sit amet.
       </p>
