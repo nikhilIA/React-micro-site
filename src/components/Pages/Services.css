@@ -1,0 +1,22 @@
+.services{
+    background:#000 url(../../images/services/bg_services.jpg) center top no-repeat;
+    background-size:cover;
+    min-height:95vh;
+}
+.services h1, .services p{
+    color:#fff;
+}
+
+.serviceWrap{
+    background:#fff;
+    padding:30px;
+    border-radius:6px;
+    margin-bottom:30px;
+}
+.serviceWrap h3{
+ color:#000;
+}
+.serviceWrap p{
+    color:#000;
+}
+
